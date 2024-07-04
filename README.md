@@ -1,8 +1,8 @@
-# Hi there, I'm [JungYeon Kim] 👋
+# Hi there, I'm JungYeon Kim 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
 
-I'm a passionate developer with expertise in Java, Spring Boot, MySQL, HTML, CSS, and JavaScript. I love building robust backend systems and engaging frontend interfaces.
+I'm a passionate developer with expertise in Java, Spring Boot, MySQL, HTML, CSS, JavaScript, Python, C, Arduino, and Raspberry Pi. I enjoy working across various domains from web development to embedded systems.
 
 ## 🛠 Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -11,6 +11,10 @@ I'm a passionate developer with expertise in Java, Spring Boot, MySQL, HTML, CSS
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
 ## 💻 Development Tools
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -26,13 +30,13 @@ A brief description of your project. Mention the main technologies used: Java, S
 - Feature 3
 
 ### [Project 2: Another Project](https://github.com/yourusername/project2)
-A brief description of your project. Mention the main technologies used: Java, Spring Boot, MySQL, HTML, CSS, JavaScript.
+A brief description of your project. Mention the main technologies used: C, Arduino, Raspberry Pi.
 - Feature 1
 - Feature 2
 - Feature 3
 
 ## 📈 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![JungYeon Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ## 📫 Contact
